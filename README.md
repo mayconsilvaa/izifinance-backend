@@ -1,9 +1,11 @@
 
 ## Indice
 ---
+
 - [Sobre](#-sobre)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Como fazer o download e executar o projeto](#-como-fazer-o-download-e-executar-o-projeto)
+
 ---
 
 ## Sobre
@@ -14,7 +16,7 @@ O projeto se trata de um desenvolvimento de uma API restful simples para fins de
 
 ## Tecnologias Utilizadas
 
-- [NodeJS]()
+- [NodeJS](https://nodejs.org/en/)
 
 ---
 
